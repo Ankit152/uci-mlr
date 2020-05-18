@@ -1,8 +1,19 @@
 # Wine Data Set
 
+<img src="https://archive.ics.uci.edu/ml/assets/MLimages/Large109.jpg">
+
+**Abstract:** Using chemical analysis determine the origin of wines
+
+* Data Set Characteristics: Multivariate
+* Number of Instances: 178
+* Area: Physical
+* Attribute Characteristics: Integer, Real
+* Number of Attributes: 13
+* Missing Values: No
+
 Data Set Information:
 
-These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.
+These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivatorsrs. The analysis determined the quantities of 13 constituents found in each of the three types of wines.
 
 The attributes are (dontated by Riccardo Leardi, riclea '@' anchem.unige.it )
 1) Alcohol

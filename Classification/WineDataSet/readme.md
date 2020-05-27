@@ -1,7 +1,5 @@
 # Wine Data Set
 
-<img src="https://archive.ics.uci.edu/ml/assets/MLimages/Large109.jpg">
-
 **Abstract:** Using chemical analysis determine the origin of wines
 
 * Data Set Characteristics: Multivariate

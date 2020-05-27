@@ -1,6 +1,5 @@
 # UCI Machine Learning Repository
 
-<img src="https://archive.ics.uci.edu/ml/assets/logo.gif">
-
+![](images/logo.png)
 
 This is my repository where I practice techniques of *Machine Learning* by downloading datasets from UCI Machine Learning Repository.

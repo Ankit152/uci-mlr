@@ -1,6 +1,6 @@
 # Wine Data Set
 
-![](images/wine.jpg)
+![](images/wine.png)
 
 **Abstract:** Using chemical analysis determine the origin of wines
 

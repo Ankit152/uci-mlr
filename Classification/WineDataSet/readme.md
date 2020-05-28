@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Ankit152/uci-mlr/blob/master/images/wine.png?raw=true">
 
-**Abstract:** Using chemical analysis determine the origin of wines
+**Abstract:** Using chemical analysis determine the origin of wines.
 
 * Data Set Characteristics: Multivariate
 * Number of Instances: 178

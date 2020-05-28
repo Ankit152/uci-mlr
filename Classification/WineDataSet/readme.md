@@ -1,6 +1,6 @@
 # Wine Data Set
 
-![](images/wine.jpg)
+<img src="https://github.com/Ankit152/uci-mlr/blob/master/images/wine.png?raw=true">
 
 **Abstract:** Using chemical analysis determine the origin of wines
 
@@ -15,7 +15,8 @@
 
 These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivatorsrs. The analysis determined the quantities of 13 constituents found in each of the three types of wines.
 
-The attributes are (dontated by Riccardo Leardi, riclea '@' anchem.unige.it )
+The attributes are (dontated by Riccardo Leardi, riclea '@' anchem.unige.it):
+
 1) Alcohol
 2) Malic acid
 3) Ash

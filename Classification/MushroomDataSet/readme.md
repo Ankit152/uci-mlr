@@ -1,6 +1,8 @@
 # Mushroom Data Set
 
-<img src="https://github.com/Ankit152/uci-mlr/blob/master/images/mushroom.png">
+<p align="center">
+    <img src="https://github.com/Ankit152/uci-mlr/blob/master/images/mushroom.png" width=400>
+</p>
 
 **Abstract:** From Audobon Society Field Guide; mushrooms described in terms of physical characteristics; classification: poisonous or edible.
 
